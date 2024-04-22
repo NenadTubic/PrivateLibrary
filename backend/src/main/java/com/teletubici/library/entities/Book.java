@@ -13,7 +13,7 @@ import jakarta.persistence.JoinTable;
 import jakarta.persistence.ManyToMany;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.JoinColumn;
-//test
+
 @Entity
 public class Book {
 	@Id
